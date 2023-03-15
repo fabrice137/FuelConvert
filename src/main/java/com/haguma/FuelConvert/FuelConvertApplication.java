@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FuelConvertApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FuelConvertApplication.class, args);
+        SpringApplication.run(FuelConvertApplication.class, args);
 	}
 
 }
